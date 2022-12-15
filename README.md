@@ -1,2 +1,5 @@
-# english101
-English is a language, so I need to learn it too
+# English 101
+
+## Introduction
+
+These are the example sentences that I wrote to review on English concepts.

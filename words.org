@@ -1,5 +1,5 @@
-#+TITLE :: English
 * English with a Panda
+
 ** Definitions
 - absentminded (adj) :: forgetful
 - acquainted [acquainted] (adj) :: with sth (formal) familiar with sth, having read, seen or experienced it

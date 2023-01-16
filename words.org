@@ -29,7 +29,6 @@
 - decoy [decoy decoys decoyed decoying] (n) :: an animal or a bird, or a model of one, that attracts other animals or birds, especially so that they can be shot by people who are hunting them
 - dignity [dignity dignities] (n) :: the fact of being given honour and respect by people
 - disguise [disguise disguises disguised disguising] (n) :: to change your appearance so that people cannot recognize you
-- parcel [parcel parcels parcelled parceled parcelling parceling] (n)(v) :: a piece of land, to wrap sth up and make it into a parcel
 - dressed (adj) :: wearing clothes and not naked or wearing clothes for sleeping
 - drill [drill drills drilled drilling] (n)(v) :: countable, uncountable a way of learning sth by means of repeated exercises
 - economies of scale (n) :: the reduction of production costs that is a result of making and scalling goods in large quantities
@@ -64,6 +63,7 @@
 - nuance [nuance nuances nuanced nuancing] (n) :: a very slight difference in meaning, sound, colour or sb's feelings that is not usually very obvious
 - obscure [obscure obscures obscured obscuring] (adj)(v) :: not well known
 - pad [pad pads padded padding] (n) :: the place where sb lives, especially a flat/apartment
+- parcel [parcel parcels parcelled parceled parcelling parceling] (n)(v) :: a piece of land, to wrap sth up and make it into a parcel
 - pension (n) :: an amount of money paid regularly by a government or company to sb who is considered to be too old or too ill/sick to work
 - perpendicular [perpendicular perpendiculars] (adj)(n) :: (technical) forming an angle of 90° with another line or surface
 - perseverance (n) :: the quality of continuing to try to achieve a particular aim despite difficulties

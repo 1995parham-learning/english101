@@ -5,3 +5,4 @@
 ## Introduction
 
 These are the example sentences that I wrote to review on English concepts.
+Also there are [Words](./words.org) that I collected to review and learn their definition.

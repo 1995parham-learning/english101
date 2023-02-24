@@ -98,6 +98,7 @@
 - tap [tap taps tapped tapping] (v)(n) :: to fit a device to a telephone so that sb's calls can be listened to secretly
 - tide (n) :: the alternate rising and falling of the surface of the ocean
 - tombstone (n) :: gravestone
+- triumph (n) :: the feeling of great satisfaction or joy that you get from a great success or victory
 - tyrannical (adj) :: using power or authority over people in an unfair and cruel way
 - vague (adj) :: ambiguous, murky; opaque; not clear in a person's mind
 - vast [vast vaster vastest] (adj) :: extremely large in area, size, amount, etc.

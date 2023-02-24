@@ -41,6 +41,7 @@
 - fatigue (n) :: a feeling of being extremely tired, usually because of hard work or exercise
 - fold [fold folds folded folding] (v)(n) :: to bend sth so that it becomes smaller or flatter and can be stored or carried more easily
 - fond [fond fonder fondest] (adj) :: ~ of sb feeling affection for sb, especially sb you have known for a long time
+- guerrilla (n) :: a member of a small group of soldiers who are not part of an official army and who fight against official soldiers, usually to try to change the government
 - hazelnut (n) :: the small brown nut of the  ↑hazel  tree
 - herb [herb herbs] (n) :: a plant whose leaves, flowers or seeds are used to flavour food, in medicines or for their pleasant smell.
 - heyday (n) :: the time when sb/sth had most power or success, or was most popular

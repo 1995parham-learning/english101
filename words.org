@@ -70,6 +70,7 @@
 - pesticide (n) :: a substance used for destroying insects or other organisms harmful to cultivated plants or to animals.
 - pestilence (n) :: any infectious disease that spreads quickly and kills a lot of people
 - petition [petition petitions petitioned petitioning] (n)(v) :: (against/for sth) a written document signed by a large number of people that asks sb in a position of authority to do or change sth
+- pilgrim (n) :: one who travels to a shrine or holy place as a devotee
 - pitch [pitch pitches pitched pitching] (n)(v) :: an area of ground specially prepared and marked for playing a sports game
 - plumbing [plumbing] (n) :: the system of pipes, etc. that supply water to a building
 - polyglot [polyglot polyglots] (adj) :: knowing, using or written in more than one language
@@ -104,6 +105,7 @@
 - vent [vent vents vented venting] (n) :: an opening that allows air, gas or liquid to pass out of or into a room, building, container, etc
 - vivid (adj) :: (of memories, a description, etc.) producing very clear pictures in your mind
 - wasting [wasting] (adj) :: a wasting disease or illness is one that causes sb to gradually become weaker and thinner
+
 ** By Example
 - He expressed his sorrow at the news of her death.
 - the joys and sorrows of childhood
@@ -125,6 +127,7 @@
 - I've known him for a long time [How long have you known him?]
 *** recognize
 - Don't you recognize me
+
 ** Synonyms
 - keen on / fund of / into / eager about / interested in
 - indecisive / hesitant / doubtful / uncertain

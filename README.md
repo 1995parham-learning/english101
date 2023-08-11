@@ -7,4 +7,10 @@
 ## Introduction
 
 These are the example sentences that I wrote to review on English concepts.
-Also there are [Words](./words.org) that I collected to review and learn their definition.
+Also, there are [Words](./words.org) that I collected to review and learn their definition.
+
+## Notes
+
+These are points that I heard about my English, and I am gathering them here.
+
+- It is better to say 'I code alone' instead of saying 'I code lonely' because lonely has a negative tone. (@elahe.dstn)

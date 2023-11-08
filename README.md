@@ -11,6 +11,8 @@ Also, there are [Words](./words.org) that I collected to review and learn their 
 
 ## Notes
 
-These are points that I heard about my English, and I am gathering them here.
+These are points that I heard about my English or the phrases that I heard,
+and I am gathering them here.
 
 - It is better to say 'I code alone' instead of saying 'I code lonely' because lonely has a negative tone. (@elahe.dstn)
+- "To hear something straight from the horse's mouth" means that you heard the information from someone who has personal knowledge on the spoken matter

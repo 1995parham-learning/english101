@@ -15,7 +15,7 @@
 - booty (n) :: (uncountable) valuable things that are stolen, especially by soldiers in a time of war
 - bribe [bribe bribes bribed bribing] (n)(v) :: a sum of money or sth valuable that you give or offer to sb to persuade them to help you, especially by doing sth dishonest
 - bust (v) :: to break something; if the police bust someone, they charge him/her with a crime.
-- cavarly [cavalry cavalries] (n) :: the part of the army that fought on horses; the part of the modern army that uses armed vehicles
+- cavalry [cavalry cavalries] (n) :: the part of the army that fought on horses; the part of the modern army that uses armed vehicles
 - clutter [clutter clutters cluttered cluttering] (n)(v) :: to fill a place with too many things, so that it is untidy
 - com·mute [commute commutes commuted commuting] (v)(n) :: intransitive, transitive to travel regularly by bus, train, car, etc. between your place of work and your home
 - compromise [compromise compromises compromised compromising] (n)(v) :: an agreement made between two people or groups in which each side gives up some of the things they want so that both sides are happy at the end
@@ -28,11 +28,11 @@
 - deaden (v) :: to make sth such as a sound, a feeling, etc. less strong
 - decent (adj) :: of a good enough standard or quality
 - decoy [decoy decoys decoyed decoying] (n) :: an animal or a bird, or a model of one, that attracts other animals or birds, especially so that they can be shot by people who are hunting them
-- dignity [dignity dignities] (n) :: the fact of being given honour and respect by people
+- dignity [dignity dignities] (n) :: the fact of being given honor and respect by people
 - disguise [disguise disguises disguised disguising] (n) :: to change your appearance so that people cannot recognize you
 - dressed (adj) :: wearing clothes and not naked or wearing clothes for sleeping
 - drill [drill drills drilled drilling] (n)(v) :: countable, uncountable a way of learning sth by means of repeated exercises
-- economies of scale (n) :: the reduction of production costs that is a result of making and scalling goods in large quantities
+- economies of scale (n) :: the reduction of production costs that is a result of making and scaling goods in large quantities
 - emigrant (n) :: a person who leaves their country to live in another
 - entail (v) :: to have (something) as a part, step, or result
 - excuse (or pardon) my French :: used to apologize for swearing. informal
@@ -42,8 +42,8 @@
 - fold [fold folds folded folding] (v)(n) :: to bend sth so that it becomes smaller or flatter and can be stored or carried more easily
 - fond [fond fonder fondest] (adj) :: ~ of sb feeling affection for sb, especially sb you have known for a long time
 - guerrilla (n) :: a member of a small group of soldiers who are not part of an official army and who fight against official soldiers, usually to try to change the government
-- hazelnut (n) :: the small brown nut of the  ↑hazel  tree
-- herb [herb herbs] (n) :: a plant whose leaves, flowers or seeds are used to flavour food, in medicines or for their pleasant smell.
+- hazelnut (n) :: the small brown nut of the hazel tree
+- herb [herb herbs] (n) :: a plant whose leaves, flowers or seeds are used to flavor food, in medicines or for their pleasant smell.
 - heyday (n) :: the time when sb/sth had most power or success, or was most popular
 - imitation [imitation imitations] (n) :: countable a copy of sth, especially sth expensive
 - immigrant (n) :: a person who has come to live permanently in a country that is not their own
@@ -62,10 +62,10 @@
 - motif (n) :: a design or a pattern used as a decoration
 - nomadic (adj) :: moving from one place to another rather than living in one place all of the time.
 - nomad (n) :: a member of a community that moves with its animals from place to place
-- nuance [nuance nuances nuanced nuancing] (n) :: a very slight difference in meaning, sound, colour or sb's feelings that is not usually very obvious
+- nuance [nuance nuances nuanced nuancing] (n) :: a very slight difference in meaning, sound, color or sb's feelings that is not usually very obvious
 - obscure [obscure obscures obscured obscuring] (adj)(v) :: not well known
 - pad [pad pads padded padding] (n) :: the place where sb lives, especially a flat/apartment
-- parcel [parcel parcels parcelled parceled parcelling parceling] (n)(v) :: a piece of land, to wrap sth up and make it into a parcel
+- parcel [parcel parcels parceled parceling] (n)(v) :: a piece of land, to wrap sth up and make it into a parcel
 - pension (n) :: an amount of money paid regularly by a government or company to sb who is considered to be too old or too ill/sick to work
 - perpendicular [perpendicular perpendiculars] (adj)(n) :: (technical) forming an angle of 90° with another line or surface
 - perseverance (n) :: the quality of continuing to try to achieve a particular aim despite difficulties
@@ -84,8 +84,8 @@
 - reactive (adj) :: showing a reaction or response
 - reign (n)(v) :: the period during which sb is in charge of an organization, a team, etc
 - reluctant adjective :: hesitating before doing sth because you do not want to do it or because you are not sure that it is the right thing to do
-- ritual (n)  :: :: a series of actions that are always performed in the same way, especially as part of a religious ceremony
-- rival [rival rivals rivalled rivaled rivalling rivaling] (n)(adj)(v) :: a person, company, or thing that competes with another in sport, business, etc
+- ritual (n)  :: a series of actions that are always performed in the same way, especially as part of a religious ceremony
+- rival [rival rivals rivaled rivaling] (n)(adj)(v) :: a person, company, or thing that competes with another in sport, business, etc
 - scribe (n) :: a person who made copies of written documents before printing was invented
 - sewer [sewer sewers] (n) :: an underground pipe that is used to carry sewage away from houses, factories, etc
 - shaft [shaft shafts shafted shafting] (n)(v) :: a long, narrow, usually vertical passage in a building or underground, used especially for a lift/elevator or as a way of allowing air in or out
@@ -94,7 +94,7 @@
 - stereotype [stereotype stereotypes stereotyped stereotyping] (n)(v) :: a fixed idea or image that many people have of a particular type of person or thing, but which is often not true in reality
 - stink [stink stinks stank stunk stinking] (v)(n) :: (of sth) to have a strong, unpleasant smell
 - stopgap [stopgap stopgaps] (n) :: something that you use or do for a short time while you are looking for sth better
-- stum·ble [stumble stumbles stumbled stumbling] (v) :: to walk or move in an unsteady way
+- stumble [stumble stumbles stumbled stumbling] (v) :: to walk or move in an unsteady way
 - stunt [stunt stunts stunted stunting] (n)(v) :: a dangerous and difficult action that sb does to entertain people, especially as part of a film/movie
 - susceptible (adj) :: very likely to be influenced, harmed or affected by sb/sth
 - tap [tap taps tapped tapping] (v)(n) :: to fit a device to a telephone so that sb's calls can be listened to secretly

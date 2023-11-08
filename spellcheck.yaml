@@ -8,4 +8,6 @@ matrix:
       wordlists:
       - .wordlist.txt
     sources:
-      - '**.txt'
+      - 'exercise/**.txt'
+      - 'words.org'
+      - 'README.md'

@@ -51,7 +51,7 @@
 - inclined (adj) :: tending to do sth; likely to do sth
 - inhibitor [inhibitor, inhibitors] (n) :: a substance which delays or prevents a chemical reaction
 - insatiable (adj) :: always wanting more of sth; not able to be satisfied
-- instrumentation [instrumentation instrumentations] (n) :: a set of instruments used in operating a vehicle or a piece of machinery
+- instrumentation (n) :: a set of instruments used in operating a vehicle or a piece of machinery
 - intimidating [intimidating] (adj) :: frightening in a way which makes a person feel less confident
 - javelin (b) :: a light spear thrown as a weapon of war or in hunting
 - lenient (adj) :: not harsh, severe, or strict

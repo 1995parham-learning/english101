@@ -16,3 +16,4 @@ and I am collecting and documenting them here.
 
 - It is better to say 'I code alone' instead of saying 'I code lonely' because lonely has a negative tone. (@elahe.dstn)
 - "To hear something straight from the horse's mouth" means that you heard the information from someone who has personal knowledge on the spoken matter
+- The term kk is an abbreviation for “okay” or “kewl” and is commonly used in America and Australia. It is often used in online messaging, texting, and gaming to convey approval, acceptance, agreement, or acknowledgment. 

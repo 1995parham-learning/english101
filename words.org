@@ -108,7 +108,7 @@
 - vent [vent vents vented venting] (n) :: an opening that allows air, gas or liquid to pass out of or into a room, building, container, etc
 - vivid (adj) :: (of memories, a description, etc.) producing very clear pictures in your mind
 - wasting [wasting] (adj) :: a wasting disease or illness is one that causes sb to gradually become weaker and thinner
-- the shopping period
+- the shopping period (n) :: the period in which students can decide on their courses before starting the semester
 
 ** By Example
 - He expressed his sorrow at the news of her death.

@@ -17,8 +17,8 @@
 - bust (v) :: to break something; if the police bust someone, they charge him/her with a crime.
 - cavalry [cavalry cavalries] (n) :: the part of the army that fought on horses; the part of the modern army that uses armed vehicles
 - clutter [clutter clutters cluttered cluttering] (n)(v) :: to fill a place with too many things, so that it is untidy
-- com·mute [commute commutes commuted commuting] (v)(n) :: intransitive, transitive to travel regularly by bus, train, car, etc. between your place of work and your home
 - compromise [compromise compromises compromised compromising] (n)(v) :: an agreement made between two people or groups in which each side gives up some of the things they want so that both sides are happy at the end
+- com·mute [commute commutes commuted commuting] (v)(n) :: intransitive, transitive to travel regularly by bus, train, car, etc. between your place of work and your home
 - confluence (n) :: a situation in which two things come together or happen at the same time
 - coroner [coroner coroners] (n) :: an official whose job is to discover the cause of any sudden, violent or suspicious death by holding an inquest
 - covert (adj)(n) :: secret or hidden, making it difficult to notice
@@ -60,8 +60,8 @@
 - monk [monk monks] (n) :: a member of a religious group of men who often live apart from other people in a monastery and who do not marry or have personal possessions.
 - mote (n) :: a very small piece of dust
 - motif (n) :: a design or a pattern used as a decoration
-- nomadic (adj) :: moving from one place to another rather than living in one place all of the time.
 - nomad (n) :: a member of a community that moves with its animals from place to place
+- nomadic (adj) :: moving from one place to another rather than living in one place all of the time.
 - nuance [nuance nuances nuanced nuancing] (n) :: a very slight difference in meaning, sound, color or sb's feelings that is not usually very obvious
 - obscure [obscure obscures obscured obscuring] (adj)(v) :: not well known
 - pad [pad pads padded padding] (n) :: the place where sb lives, especially a flat/apartment
@@ -98,6 +98,7 @@
 - stunt [stunt stunts stunted stunting] (n)(v) :: a dangerous and difficult action that sb does to entertain people, especially as part of a film/movie
 - susceptible (adj) :: very likely to be influenced, harmed or affected by sb/sth
 - tap [tap taps tapped tapping] (v)(n) :: to fit a device to a telephone so that sb's calls can be listened to secretly
+- the shopping period (n) :: the period in which students can decide on their courses before starting the semester
 - tide (n) :: the alternate rising and falling of the surface of the ocean
 - tombstone (n) :: gravestone
 - triumph (n) :: the feeling of great satisfaction or joy that you get from a great success or victory
@@ -108,7 +109,6 @@
 - vent [vent vents vented venting] (n) :: an opening that allows air, gas or liquid to pass out of or into a room, building, container, etc
 - vivid (adj) :: (of memories, a description, etc.) producing very clear pictures in your mind
 - wasting [wasting] (adj) :: a wasting disease or illness is one that causes sb to gradually become weaker and thinner
-- the shopping period (n) :: the period in which students can decide on their courses before starting the semester
 
 ** By Example
 - He expressed his sorrow at the news of her death.

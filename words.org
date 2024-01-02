@@ -77,6 +77,7 @@
 - pitch [pitch pitches pitched pitching] (n)(v) :: an area of ground specially prepared and marked for playing a sports game
 - plumbing [plumbing] (n) :: the system of pipes, etc. that supply water to a building
 - polyglot [polyglot polyglots] (adj) :: knowing, using or written in more than one language
+- posse (n) :: A posse is a group of friends, or a group of people who are gathered together for a particular purpose.
 - prevail [prevail prevails prevailed prevailing] (v) :: intransitive ~ (in/among sth) to exist or be very common at a particular time or in a particular place
 - prevalent (adj) :: that exists or is very common at a particular time or in a particular place
 - proactive (adj) :: controlling a situation by making things happen rather than waiting for things to happen and then reacting to them

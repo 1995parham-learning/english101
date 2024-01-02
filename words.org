@@ -57,6 +57,7 @@
 - lenient (adj) :: not harsh, severe, or strict
 - mediocre (adj) :: not very good; of only average standard
 - mediocrity (n) :: moderate ability or value
+- molest (v) :: to make unwanted or improper sexual advances towards (someone)
 - monk [monk monks] (n) :: a member of a religious group of men who often live apart from other people in a monastery and who do not marry or have personal possessions.
 - mote (n) :: a very small piece of dust
 - motif (n) :: a design or a pattern used as a decoration

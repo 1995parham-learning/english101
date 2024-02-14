@@ -91,39 +91,44 @@ One of the best sources for gathering the description for words is [[https://dic
 - plumbing (n) :: the system of pipes, etc. that supply water to a building
 - polyglot (adj) :: knowing, using or written in more than one language
 - posse (n) :: A posse is a group of friends, or a group of people who are gathered together for a particular purpose.
-- prevail [prevail prevails prevailed prevailing] (v) :: intransitive ~ (in/among sth) to exist or be very common at a particular time or in a particular place
+- prevail (v) :: (in/among sth) to exist or be very common at a particular time or in a particular place
 - prevalent (adj) :: that exists or is very common at a particular time or in a particular place
 - proactive (adj) :: controlling a situation by making things happen rather than waiting for things to happen and then reacting to them
-- proceeding [proceeding proceedings] (n) :: (plural) the official written report of a meeting, etc
+- proceeding (n) :: (plural) the official written report of a meeting, etc
 - profile (n) :: the outline of a person's face when you look from the side, not the front
 - reactive (adj) :: showing a reaction or response
 - reign (n)(v) :: the period during which sb is in charge of an organization, a team, etc
-- reluctant adjective :: hesitating before doing sth because you do not want to do it or because you are not sure that it is the right thing to do
+- reluctant (adj) :: hesitating before doing sth because you do not want to do it or because you are not sure that it is the right thing to do
+- remark (n) :: something that you say, giving your opinion about something or stating a fact
 - ritual (n)  :: a series of actions that are always performed in the same way, especially as part of a religious ceremony
-- rival [rival rivals rivaled rivaling] (n)(adj)(v) :: a person, company, or thing that competes with another in sport, business, etc
+- rival (n)(adj)(v) :: a person, company, or thing that competes with another in sport, business, etc
 - scribe (n) :: a person who made copies of written documents before printing was invented
-- sewer [sewer sewers] (n) :: an underground pipe that is used to carry sewage away from houses, factories, etc
-- shaft [shaft shafts shafted shafting] (n)(v) :: a long, narrow, usually vertical passage in a building or underground, used especially for a lift/elevator or as a way of allowing air in or out
-- sorrow [sorrow sorrows sorrowed sorrowing] (n)(v) :: (rather formal) a feeling of great sadness because sth very bad has happened
-- spore [spore spores] (n) :: one of the very small cells that are produced by some plants and that develop into new plants
-- stereotype [stereotype stereotypes stereotyped stereotyping] (n)(v) :: a fixed idea or image that many people have of a particular type of person or thing, but which is often not true in reality
-- stink [stink stinks stank stunk stinking] (v)(n) :: (of sth) to have a strong, unpleasant smell
-- stopgap [stopgap stopgaps] (n) :: something that you use or do for a short time while you are looking for sth better
-- stumble [stumble stumbles stumbled stumbling] (v) :: to walk or move in an unsteady way
-- stunt [stunt stunts stunted stunting] (n)(v) :: a dangerous and difficult action that sb does to entertain people, especially as part of a film/movie
+- sewer (n) :: an underground pipe that is used to carry sewage away from houses, factories, etc
+- shaft (n)(v) :: a long, narrow, usually vertical passage in a building or underground, used especially for a lift/elevator or as a way of allowing air in or out
+- sorrow (n)(v) :: (rather formal) a feeling of great sadness because sth very bad has happened
+- spore (n) :: one of the very small cells that are produced by some plants and that develop into new plants
+- STEM (n) :: science, technology, engineering, and math
+- stereotype (n)(v) :: a fixed idea or image that many people have of a particular type of person or thing, but which is often not true in reality
+- stink (v)(n) :: (of sth) to have a strong, unpleasant smell
+- stopgap (n) :: something that you use or do for a short time while you are looking for sth better
+- stumble (v) :: to walk or move in an unsteady way
+- stunt (n)(v) :: a dangerous and difficult action that sb does to entertain people, especially as part of a film/movie
 - susceptible (adj) :: very likely to be influenced, harmed or affected by sb/sth
-- tap [tap taps tapped tapping] (v)(n) :: to fit a device to a telephone so that sb's calls can be listened to secretly
+- tap (v)(n) :: to fit a device to a telephone so that sb's calls can be listened to secretly
 - the shopping period (n) :: the period in which students can decide on their courses before starting the semester
 - tide (n) :: the alternate rising and falling of the surface of the ocean
 - tombstone (n) :: gravestone
+- triage (n) :: the process of quickly examining patients who are taken to a hospital in order to decide which ones are the most seriously ill and must be treated first
 - triumph (n) :: the feeling of great satisfaction or joy that you get from a great success or victory
 - tyrannical (adj) :: using power or authority over people in an unfair and cruel way
+- unfettered (adj) :: not limited by rules or any other
+- utmost (adj) :: used to emphasize how important or serious something is
 - vague (adj) :: ambiguous, murky; opaque; not clear in a person's mind
-- vast [vast vaster vastest] (adj) :: extremely large in area, size, amount, etc.
+- vast (adj) :: extremely large in area, size, amount, etc.
 - venerable (adj) :: people or things deserve respect because they are old, important, wise, etc
-- vent [vent vents vented venting] (n) :: an opening that allows air, gas or liquid to pass out of or into a room, building, container, etc
+- vent (n) :: an opening that allows air, gas or liquid to pass out of or into a room, building, container, etc
 - vivid (adj) :: (of memories, a description, etc.) producing very clear pictures in your mind
-- wasting [wasting] (adj) :: a wasting disease or illness is one that causes sb to gradually become weaker and thinner
+- wasting (adj) :: a wasting disease or illness is one that causes sb to gradually become weaker and thinner
 
 
 ** By Example

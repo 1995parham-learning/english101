@@ -28,14 +28,16 @@ One of the best sources for gathering the description for words is [[https://dic
 - commute (v)(n) :: to travel regularly by bus, train, car, etc. between your place of work and your home
 - compromise (n)(v) :: an agreement made between two people or groups in which each side gives up some of the things they want so that both sides are happy at the end
 - confluence (n) :: a situation in which two things come together or happen at the same time
-- coroner [coroner coroners] (n) :: an official whose job is to discover the cause of any sudden, violent or suspicious death by holding an inquest
+- conscript (n) :: a person who has been forced to serve in an army or in one of a country's armed forces
+- coroner (n) :: an official whose job is to discover the cause of any sudden, violent or suspicious death by holding an inquest
 - covert (adj)(n) :: secret or hidden, making it difficult to notice
-- crate [crate crates crated crating] (n)(v) :: a large wooden container for transporting goods
-- curfew [curfew curfews] (n) :: a law which says that people must not go outside after a particular time at night until the morning; the time after which nobody must go outside
+- crate (n) :: a large wooden container for transporting goods
+- crate (v) :: to put something into a crate, especially in order to move it
+- curfew (n) :: a law which says that people must not go outside after a particular time at night until the morning; the time after which nobody must go outside
 - dangerous (adj) :: hazardous; perilous; risky
 - deaden (v) :: to make sth such as a sound, a feeling, etc. less strong
 - decent (adj) :: of a good enough standard or quality
-- decoy [decoy decoys decoyed decoying] (n) :: an animal or a bird, or a model of one, that attracts other animals or birds, especially so that they can be shot by people who are hunting them
+- decoy (n) :: an animal or a bird, or a model of one, that attracts other animals or birds, especially so that they can be shot by people who are hunting them
 - dignity (n) :: the fact of being given honor and respect by people
 - disguise [disguise disguises disguised disguising] (n) :: to change your appearance so that people cannot recognize you
 - dressed (adj) :: wearing clothes and not naked or wearing clothes for sleeping

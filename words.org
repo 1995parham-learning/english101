@@ -1,24 +1,32 @@
-* English with a Panda
+* English with a Panda 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
+One of the best sources for gathering the description for words is [[https://dictionary.cambridge.org/][Cambridge Dictionary]].
 
 ** Definitions
-- absentminded (adj) :: forgetful
-- acquainted [acquainted] (adj) :: with sth (formal) familiar with sth, having read, seen or experienced it
+- absent-minded (adj) :: forgetful
+- acquainted (adj) :: with sth (formal) familiar with sth, having read, seen or experienced it
 - adept (adj) :: very good at doing something that is not easy
-- affection [affection affections] (n) :: uncountable, singular the feeling of liking or loving sb/sth very much and caring about them
-- antidote (n) :: a chemical, especially a drug, that limits the effects of a poison.
-- asylum (n) :: uncountable  protection that a government gives to people who have left their own country, usually because they were in danger for political reason
+- adjutant (n) :: adjutant is a military appointment given to an officer who assists the commanding officer with unit administration, mostly the management of human resources in an army unit
+- affection (n) :: the feeling of liking or loving sb/sth very much and caring about them
+- antidote (n) :: a chemical, especially a drug, that limits the effects of a poison
+- asylum (n) :: a mental hospital, or any other institution giving shelter and other help to poor or suffering people
+- asylum (n) :: protection that a government gives to people who have left their own country, usually because they were in danger for political reason
+- asylum seeker :: An asylum seeker is a person who leaves their country of residence, enters another country and applies for asylum in that other country
 - audition (n) :: a short performance given by an actor, a singer, etc, so that sb can decide whether they are suitable to act in a play, sing in a concert, etc
 - avalanche (n) :: a mass of snow, ice and rock that falls down the side of a mountain
-- bargain [bargain bargains bargained bargaining] (n) :: (with sb) an agreement between two or more people or groups, to do sth for each other
+- bargain (n) :: something on sale at a lower price than its true value
+- bay (n) :: a part of the coast where the land curves in so that the sea is surrounded by land on three sides
 - besotted (adj) :: loving sb/sth so much that you do not behave in a sensible way
 - bespoke (adj) ::  made specially, according to the needs of an individual customer
-- booty (n) :: (uncountable) valuable things that are stolen, especially by soldiers in a time of war
-- bribe [bribe bribes bribed bribing] (n)(v) :: a sum of money or sth valuable that you give or offer to sb to persuade them to help you, especially by doing sth dishonest
-- bust (v) :: to break something; if the police bust someone, they charge him/her with a crime.
-- cavalry [cavalry cavalries] (n) :: the part of the army that fought on horses; the part of the modern army that uses armed vehicles
-- clutter [clutter clutters cluttered cluttering] (n)(v) :: to fill a place with too many things, so that it is untidy
-- compromise [compromise compromises compromised compromising] (n)(v) :: an agreement made between two people or groups in which each side gives up some of the things they want so that both sides are happy at the end
-- com·mute [commute commutes commuted commuting] (v)(n) :: intransitive, transitive to travel regularly by bus, train, car, etc. between your place of work and your home
+- booty (n) :: valuable things that are stolen, especially by soldiers in a time of war
+- bribe (n)(v) :: a sum of money or sth valuable that you give or offer to sb to persuade them to help you, especially by doing sth dishonest
+- bust (v) :: if the police bust someone, they charge him/her with a crime
+- bust (v) :: to break something
+- cape (n) :: a very large piece of land sticking out into the sea
+- cavalry (n) :: the part of the army that fought on horses; the part of the modern army that uses armed vehicles
+- clutter (n)(v) :: to fill a place with too many things, so that it is untidy
+- commute (v)(n) :: to travel regularly by bus, train, car, etc. between your place of work and your home
+- compromise (n)(v) :: an agreement made between two people or groups in which each side gives up some of the things they want so that both sides are happy at the end
 - confluence (n) :: a situation in which two things come together or happen at the same time
 - coroner [coroner coroners] (n) :: an official whose job is to discover the cause of any sudden, violent or suspicious death by holding an inquest
 - covert (adj)(n) :: secret or hidden, making it difficult to notice
@@ -28,7 +36,7 @@
 - deaden (v) :: to make sth such as a sound, a feeling, etc. less strong
 - decent (adj) :: of a good enough standard or quality
 - decoy [decoy decoys decoyed decoying] (n) :: an animal or a bird, or a model of one, that attracts other animals or birds, especially so that they can be shot by people who are hunting them
-- dignity [dignity dignities] (n) :: the fact of being given honor and respect by people
+- dignity (n) :: the fact of being given honor and respect by people
 - disguise [disguise disguises disguised disguising] (n) :: to change your appearance so that people cannot recognize you
 - dressed (adj) :: wearing clothes and not naked or wearing clothes for sleeping
 - drill [drill drills drilled drilling] (n)(v) :: countable, uncountable a way of learning sth by means of repeated exercises
@@ -111,6 +119,7 @@
 - vent [vent vents vented venting] (n) :: an opening that allows air, gas or liquid to pass out of or into a room, building, container, etc
 - vivid (adj) :: (of memories, a description, etc.) producing very clear pictures in your mind
 - wasting [wasting] (adj) :: a wasting disease or illness is one that causes sb to gradually become weaker and thinner
+
 
 ** By Example
 - He expressed his sorrow at the news of her death.

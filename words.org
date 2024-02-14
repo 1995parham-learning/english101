@@ -39,9 +39,9 @@ One of the best sources for gathering the description for words is [[https://dic
 - decent (adj) :: of a good enough standard or quality
 - decoy (n) :: an animal or a bird, or a model of one, that attracts other animals or birds, especially so that they can be shot by people who are hunting them
 - dignity (n) :: the fact of being given honor and respect by people
-- disguise [disguise disguises disguised disguising] (n) :: to change your appearance so that people cannot recognize you
+- disguise (n) :: to change your appearance so that people cannot recognize you
 - dressed (adj) :: wearing clothes and not naked or wearing clothes for sleeping
-- drill [drill drills drilled drilling] (n)(v) :: countable, uncountable a way of learning sth by means of repeated exercises
+- drill (n)(v) :: a way of learning sth by means of repeated exercises
 - economies of scale (n) :: the reduction of production costs that is a result of making and scaling goods in large quantities
 - emigrant (n) :: a person who leaves their country to live in another
 - entail (v) :: to have (something) as a part, step, or result
@@ -49,36 +49,39 @@ One of the best sources for gathering the description for words is [[https://dic
 - facade (n) :: the front of a building
 - falter (v) :: to become weaker or less effective
 - fatigue (n) :: a feeling of being extremely tired, usually because of hard work or exercise
-- fold [fold folds folded folding] (v)(n) :: to bend sth so that it becomes smaller or flatter and can be stored or carried more easily
-- fond [fond fonder fondest] (adj) :: ~ of sb feeling affection for sb, especially sb you have known for a long time
+- fold (v)(n) :: to bend sth so that it becomes smaller or flatter and can be stored or carried more easily
+- fond (adj) :: to like someone or something very much
 - guerrilla (n) :: a member of a small group of soldiers who are not part of an official army and who fight against official soldiers, usually to try to change the government
 - hazelnut (n) :: the small brown nut of the hazel tree
-- herb [herb herbs] (n) :: a plant whose leaves, flowers or seeds are used to flavor food, in medicines or for their pleasant smell.
+- hell (n) :: an extremely unpleasant or difficult place, situation, or experience
+- herb (n) :: a plant whose leaves, flowers or seeds are used to flavor food, in medicines or for their pleasant smell.
 - heyday (n) :: the time when sb/sth had most power or success, or was most popular
-- imitation [imitation imitations] (n) :: countable a copy of sth, especially sth expensive
+- imitation (n) :: made to look like something else:
 - immigrant (n) :: a person who has come to live permanently in a country that is not their own
 - impulsive (adj) :: impatient
 - inclined (adj) :: tending to do sth; likely to do sth
-- inhibitor [inhibitor, inhibitors] (n) :: a substance which delays or prevents a chemical reaction
+- inhibitor (n) :: a substance which delays or prevents a chemical reaction
 - insatiable (adj) :: always wanting more of sth; not able to be satisfied
 - instrumentation (n) :: a set of instruments used in operating a vehicle or a piece of machinery
-- intimidating [intimidating] (adj) :: frightening in a way which makes a person feel less confident
+- intimidating (adj) :: frightening in a way which makes a person feel less confident
 - javelin (b) :: a light spear thrown as a weapon of war or in hunting
 - lenient (adj) :: not harsh, severe, or strict
 - mediocre (adj) :: not very good; of only average standard
 - mediocrity (n) :: moderate ability or value
 - molest (v) :: to make unwanted or improper sexual advances towards (someone)
-- monk [monk monks] (n) :: a member of a religious group of men who often live apart from other people in a monastery and who do not marry or have personal possessions.
+- monk (n) :: a member of a religious group of men who often live apart from other people in a monastery and who do not marry or have personal possessions.
 - mote (n) :: a very small piece of dust
 - motif (n) :: a design or a pattern used as a decoration
 - nomad (n) :: a member of a community that moves with its animals from place to place
 - nomadic (adj) :: moving from one place to another rather than living in one place all of the time.
-- nuance [nuance nuances nuanced nuancing] (n) :: a very slight difference in meaning, sound, color or sb's feelings that is not usually very obvious
-- obscure [obscure obscures obscured obscuring] (adj)(v) :: not well known
-- pad [pad pads padded padding] (n) :: the place where sb lives, especially a flat/apartment
-- parcel [parcel parcels parceled parceling] (n)(v) :: a piece of land, to wrap sth up and make it into a parcel
+- nuance (n) :: a very slight difference in meaning, sound, color or sb's feelings that is not usually very obvious
+- obscure (adj)(v) :: not well known
+- overtaking (n) :: the act of coming from behind another vehicle or person and moving in front of it or them
+- pad (n) :: the place where sb lives, especially a flat/apartment
+- parcel (n) :: an object or collection of objects wrapped in paper, especially so that it can be sent by post
+- parcel (n) :: an area of land
 - pension (n) :: an amount of money paid regularly by a government or company to sb who is considered to be too old or too ill/sick to work
-- perpendicular [perpendicular perpendiculars] (adj)(n) :: (technical) forming an angle of 90° with another line or surface
+- perpendicular (adj)(n) :: (technical) forming an angle of 90° with another line or surface
 - perseverance (n) :: the quality of continuing to try to achieve a particular aim despite difficulties
 - pesticide (n) :: a substance used for destroying insects or other organisms harmful to cultivated plants or to animals.
 - pestilence (n) :: any infectious disease that spreads quickly and kills a lot of people

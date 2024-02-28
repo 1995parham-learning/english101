@@ -24,5 +24,5 @@ and I am collecting and documenting them here.
 ### Silent G words
 
 For whatever reason, **the letter G likes to stay quiet when it is paired up with the letter N**.
-Examples include gnaw, gnarly, gnostic, gnat, gnash, gnome, champagne, cologne, align, assign, benign, sign, feign, foreign, and reign.
+Examples include gnaw, gnarly, gnat, gnash, gnome, champagne, cologne, align, assign, benign, sign, feign, foreign, and reign.
 **The letter G also often keeps quiet when it sees the letter H**, as in sigh, high, sight, light, bright, night, fight, though, and thorough.

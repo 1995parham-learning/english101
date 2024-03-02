@@ -75,6 +75,7 @@ One of the best sources for gathering the description for words is [[https://dic
 - nomad (n) :: a member of a community that moves with its animals from place to place
 - nomadic (adj) :: moving from one place to another rather than living in one place all of the time.
 - nuance (n) :: a very slight difference in meaning, sound, color or sb's feelings that is not usually very obvious
+- obese (adj) :: extremely fat in a way that is dangerous for health
 - obscure (adj)(v) :: not well known
 - overtaking (n) :: the act of coming from behind another vehicle or person and moving in front of it or them
 - pad (n) :: the place where sb lives, especially a flat/apartment

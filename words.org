@@ -19,6 +19,7 @@ One of the best sources for gathering the description for words is [[https://dic
 - bay (n) :: a part of the coast where the land curves in so that the sea is surrounded by land on three sides
 - besotted (adj) :: loving sb/sth so much that you do not behave in a sensible way
 - bespoke (adj) ::  made specially, according to the needs of an individual customer
+- boycott (v) :: withdraw from commercial or social relations with (a country, organization, or person) as a punishment or protest.
 - booty (n) :: valuable things that are stolen, especially by soldiers in a time of war
 - bribe (n)(v) :: a sum of money or sth valuable that you give or offer to sb to persuade them to help you, especially by doing sth dishonest
 - bust (v) :: if the police bust someone, they charge him/her with a crime

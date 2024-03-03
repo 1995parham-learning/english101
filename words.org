@@ -53,6 +53,7 @@ One of the best sources for gathering the description for words is [[https://dic
 - fatigue (n) :: a feeling of being extremely tired, usually because of hard work or exercise
 - fold (v)(n) :: to bend sth so that it becomes smaller or flatter and can be stored or carried more easily
 - fond (adj) :: to like someone or something very much
+- foosball (n) :: Table football, also known as foosball[a] or table soccer, is a tabletop game loosely based on association football.
 - guerrilla (n) :: a member of a small group of soldiers who are not part of an official army and who fight against official soldiers, usually to try to change the government
 - hazelnut (n) :: the small brown nut of the hazel tree
 - hell (n) :: an extremely unpleasant or difficult place, situation, or experience
@@ -135,6 +136,7 @@ One of the best sources for gathering the description for words is [[https://dic
 - vent (n) :: an opening that allows air, gas or liquid to pass out of or into a room, building, container, etc
 - vivid (adj) :: (of memories, a description, etc.) producing very clear pictures in your mind
 - wasting (adj) :: a wasting disease or illness is one that causes sb to gradually become weaker and thinner
+
 
 
 ** By Example

@@ -8,6 +8,7 @@ One of the best sources for gathering the description for words is [[https://dic
 - adept (adj) :: very good at doing something that is not easy
 - adjutant (n) :: adjutant is a military appointment given to an officer who assists the commanding officer with unit administration, mostly the management of human resources in an army unit
 - affection (n) :: the feeling of liking or loving sb/sth very much and caring about them
+- aisle (n) :: a long, narrow space between rows of seats in an aircraft, cinema, or church
 - anthem (n) :: a song that has special importance for a particular group of people, an organization, or a country, often sung on a special occasion
 - antidote (n) :: a chemical, especially a drug, that limits the effects of a poison
 - asylum (n) :: a mental hospital, or any other institution giving shelter and other help to poor or suffering people
@@ -22,6 +23,7 @@ One of the best sources for gathering the description for words is [[https://dic
 - booty (n) :: valuable things that are stolen, especially by soldiers in a time of war
 - boycott (v) :: withdraw from commercial or social relations with (a country, organization, or person) as a punishment or protest.
 - bribe (n)(v) :: a sum of money or sth valuable that you give or offer to sb to persuade them to help you, especially by doing sth dishonest
+- bun (n) :: a small, round piece of bread, especially one that is cut horizontally and holds a burger
 - bust (v) :: if the police bust someone, they charge him/her with a crime
 - bust (v) :: to break something
 - cape (n) :: a very large piece of land sticking out into the sea

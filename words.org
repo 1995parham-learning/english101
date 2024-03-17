@@ -135,6 +135,7 @@ One of the best sources for gathering the description for words is [[https://dic
 - vague (adj) :: ambiguous, murky; opaque; not clear in a person's mind
 - vast (adj) :: extremely large in area, size, amount, etc.
 - venerable (adj) :: people or things deserve respect because they are old, important, wise, etc
+- venom (n) :: a poisonous liquid that some snakes, insects, etc. produce and can put into another animal's body by biting or stinging
 - vent (n) :: an opening that allows air, gas or liquid to pass out of or into a room, building, container, etc
 - vivid (adj) :: (of memories, a description, etc.) producing very clear pictures in your mind
 - wasting (adj) :: a wasting disease or illness is one that causes sb to gradually become weaker and thinner

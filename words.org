@@ -9,6 +9,7 @@ One of the best sources for gathering the description for words is [[https://dic
 - adjutant (n) :: adjutant is a military appointment given to an officer who assists the commanding officer with unit administration, mostly the management of human resources in an army unit
 - affection (n) :: the feeling of liking or loving sb/sth very much and caring about them
 - aisle (n) :: a long, narrow space between rows of seats in an aircraft, cinema, or church
+- amalgamation (n) :: the process in which separate organizations unite to form a larger organization or group, or an organization or group formed in this way
 - anthem (n) :: a song that has special importance for a particular group of people, an organization, or a country, often sung on a special occasion
 - antidote (n) :: a chemical, especially a drug, that limits the effects of a poison
 - asylum (n) :: a mental hospital, or any other institution giving shelter and other help to poor or suffering people
